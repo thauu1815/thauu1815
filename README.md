@@ -1,12 +1,6 @@
 # sobre mim
 - 👋 olá, me chamo @thauu1815
 - meu email de contato é thauany.ferracin@escola.pr.gov.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Estou interessada a aprender a programar novas lingugens
+- 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScrept e Screatch
 
-<!---
-thauu1815/thauu1815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
